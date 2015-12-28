@@ -7,9 +7,7 @@ def fact(n):
     return n * fact(n -1)
 
 def div(n):
-    """
-    Just divide
-    """
+
     res = 10 / n
     return res
 
